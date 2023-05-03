@@ -1,0 +1,5 @@
+#+TITLE: ID's Personal XBPS Package Repo
+#+AUTHOR: CToID
+#+OPTIONS: toc:nil num:nil
+
+h
