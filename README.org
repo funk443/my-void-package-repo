@@ -2,4 +2,9 @@
 #+AUTHOR: CToID
 #+OPTIONS: toc:nil num:nil
 
-h
+The template files for these binary pacakges can be found at [[https://github.com/funk443/void-packages/tree/personal-repo][my void packages repo]].
+
+#+begin_example
+xbps-install -S --repository=https://funk443.github.io/my-void-package-repo/x86_64
+xbps-install --repository=https://funk443.github.io/my-void-package-repo/x86_64 foo
+#+end_example
