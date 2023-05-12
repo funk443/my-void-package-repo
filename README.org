@@ -2,6 +2,8 @@
 #+AUTHOR: CToID
 #+OPTIONS: toc:nil num:nil
 
+This repo contains shitty packaged xbps packages, use at your own risks.
+
 The template files for these binary pacakges can be found at [[https://github.com/funk443/void-packages/tree/personal-repo][my void packages repo]].
 
 #+begin_example
